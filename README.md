@@ -19,5 +19,5 @@ Aegisub의 기능적 개선은 힘들고, ASS 자막 포맷의 기능적 향상�
 ## 문의
 만일 이 repository나 Aegisub에 대한 문의가 있으시면, 아래 링크를 참고하여 연락을 취해주시면 좋겠습니다. 사실, 모든 문제를 해결해 드리기에는 제 그릇이 작아 함께 고민해보는 데 의의를 두셨으면 좋겠습니다.  
 
-이메일 : [mailto:gcyong@outlook.com](gcyong@outlook.com)  
+이메일 : [gcyong@outlook.com](mailto:gcyong@outlook.com)  
 블로그 : [http://gcyong.tistory.com](http://gcyong.tistory.com)
